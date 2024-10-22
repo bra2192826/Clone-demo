@@ -6,6 +6,6 @@ This repo can be used by students at Rio Salado College to practice cloning with
 ## Edit below this heading
 
 You can edit this file by typing on a new line. Say hello. Pass encouraging words to others taking classes.
-
+MOTIVATION IS KEY TO GETTING THINGS DONE. FIND WHAT MOTIVATES YOU AND AIM FOR THE STARS!
 `Perfection isn't required... only progress. You can do this!`
 `Hello, Everyone! Glad to be on this journey with you.`
